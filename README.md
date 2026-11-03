@@ -1,1 +1,1 @@
-Proyecto para migrar un monolito
+Proyecto para migrar un monolito.
